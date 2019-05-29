@@ -1,0 +1,1 @@
+﻿C:\Users\Hareck\source\repos\Ising GPU\Ising GPU\Ising GPU.vcxproj(34,5): error MSB4019: Nie można odnaleźć zaimportowanego projektu „E:\Microsoft Visual Studio\MSBuild\Microsoft\VC\v160\BuildCustomizations\CUDA 10.0.props”. Upewnij się, że ścieżka w deklaracji <Import> jest poprawna oraz że plik istnieje na dysku.
